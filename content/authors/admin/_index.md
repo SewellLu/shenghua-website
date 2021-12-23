@@ -8,8 +8,6 @@ interests:
   - Land Governance
   - State-business Relations
   - Central-local Relations
-  - ""
-  - Chinese Politics
 social:
   - icon: envelope
     icon_pack: fas
