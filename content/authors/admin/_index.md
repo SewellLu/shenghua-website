@@ -1,7 +1,7 @@
 ---
 title: Shenghua Lu
 role: Ph.D. candidate
-avatar_filename: 微信图片_20211030133138.jpg
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -12,21 +12,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: School of Public Affairs, Zhejiang University
+    url: http://www.spa.zju.edu.cn/
 education:
   courses:
     - course: PhD in Artificial Intelligence
