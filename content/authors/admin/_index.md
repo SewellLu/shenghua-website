@@ -5,9 +5,11 @@ avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Land Governance
+  - State-business Relations
+  - Central-local Relations
+  - ""
+  - Chinese Politics
 social:
   - icon: envelope
     icon_pack: fas
